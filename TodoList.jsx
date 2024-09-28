@@ -32,7 +32,7 @@ function TodoList(){
         <h1>Lista de Tarefas</h1>
         <input 
         type="text" 
-        placeholder="Adicione a tarefa" 
+        placeholder="Adicione a tarefassssssssssssssssss" 
         value={inputText} 
         onChange={(e)=> setInputText(e.target.value)}
         />
